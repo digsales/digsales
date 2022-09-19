@@ -11,7 +11,7 @@
 
 ## Technologies
 
-### Mobile Frameworks
+### Mobile Frameworks:
 
 [![Titulo](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
@@ -19,11 +19,11 @@
 [![Titulo](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)]()
 
-### Terminal
+### Terminal:
 
-[![Titulo](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white))]()
+[![Titulo](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
-### Frameworks
+### Frameworks:
 
 [![Titulo](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Titulo](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
