@@ -45,4 +45,4 @@
 [![Titulo](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()  
   
-[![Titulo](https://img.shields.io/github/followers/digsales.svg?style=social&label=Follow&maxAge=2592000)]()
+[![Titulo](https://img.shields.io/github/followers/digsales.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/digsales)
