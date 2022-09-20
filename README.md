@@ -2,10 +2,9 @@
 ### Training and studying to be a dev mobile!!
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-sales-dev/)
-[![Titulo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/_digsales/)
+[![Titulo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561984212998)
 [![Titulo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_digsales/)
 [![Titulo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tal%20do%20dog#1302)
-[![Titulo](https://img.shields.io/github/followers/digsales.svg?style=social&label=Follow&maxAge=2592000)]()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digsales&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digsales&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,4 +43,6 @@
 [![Titulo](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
-[![Titulo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()
+[![Titulo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()  
+  
+[![Titulo](https://img.shields.io/github/followers/digsales.svg?style=social&label=Follow&maxAge=2592000)]()
