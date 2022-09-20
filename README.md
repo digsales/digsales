@@ -23,6 +23,7 @@
 ### Terminal:
 
 [![Titulo](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![Titulo](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)]()
 
 ### Frameworks:
 
