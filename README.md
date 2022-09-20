@@ -6,7 +6,7 @@
 [![Titulo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tal%20do%20dog#1302)
 [![Titulo](https://img.shields.io/github/followers/digsales.svg?style=social&label=Follow&maxAge=2592000)]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digsales&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digsales&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digsales&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
