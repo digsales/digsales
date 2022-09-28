@@ -14,6 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digsales&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digsales&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![snake gif](https://github.com/digsales/digsales/blob/output/github-contribution-grid-snake.svg)
 
 ## Technologies
 
@@ -51,7 +52,5 @@
 [![Titulo](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()  
-  
-  ![snake gif](https://github.com/digsales/digsales/blob/output/github-contribution-grid-snake.svg)
   
 [![Titulo](https://img.shields.io/github/followers/digsales.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/digsales)
