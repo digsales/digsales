@@ -12,7 +12,7 @@
 [![Titulo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tal%20do%20dog#1302)
 
 [![Titulo](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://keepo.io/digsales-dev/)
-<details>
+</details>
   
 ## GitHub Status
 
