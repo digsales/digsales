@@ -1,6 +1,6 @@
 # Hello, I'm Diogo Sales 👋👋
 ### Training and studying to be a mobile dev!!
-## Find me
+<details><summary>## Find me</summary>
 
 [![Titulo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-sales-dev/)
 [![Titulo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/digsalesemail)
@@ -12,6 +12,8 @@
 
 [![Titulo](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://keepo.io/digsales-dev/)
 
+</details>
+  
 ## GitHub Status
 
 ![snake gif](https://github.com/digsales/digsales/blob/output/github-contribution-grid-snake.svg)
