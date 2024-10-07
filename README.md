@@ -11,14 +11,6 @@
 [![Titulo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tal%20do%20dog#1302)
 
 [![Titulo](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://keepo.io/digsales-dev/)
-  
-## GitHub Status
-
-![snake gif](https://github.com/digsales/digsales/blob/output/github-contribution-grid-snake.svg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digsales&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digsales&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 
@@ -37,6 +29,8 @@
 [![Titulo](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)]()
 
 ### Skills:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digsales&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Titulo](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Titulo](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
