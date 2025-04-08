@@ -28,7 +28,7 @@
 
 ### Skills:
 
-<!-- ![snake gif](https://github.com/digsales/digsales/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/digsales/digsales/blob/output/github-contribution-grid-snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digsales&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
