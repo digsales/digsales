@@ -28,8 +28,6 @@
 
 ### Skills:
 
-![snake gif](https://github.com/digsales/digsales/blob/output/github-contribution-grid-snake.svg)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digsales&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Titulo](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
@@ -48,5 +46,12 @@
 [![Titulo](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
 [![Titulo](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]()  
+
+<!-- ![snake gif](https://github.com/digsales/digsales/blob/output/github-contribution-grid-snake.svg) -->
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/digsales/digsales/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/digsales/digsales/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/digsales/digsales/output/github-contribution-grid-snake.svg">
+</picture>
   
 [![Titulo](https://img.shields.io/github/followers/digsales.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/digsales)
