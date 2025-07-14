@@ -16,7 +16,7 @@ Computing. Tenho habilidades em gerenciar equipes e projetos, sempre buscando so
 impulsionem o crescimento e a eficiência, aplico meus conhecimentos técnicos e de gestão para alcançar resultados
 expressivos.</p> -->
 
-<p align="center">System analyst, organized, detail-oriented, and focused on delivering high-quality solutions. I have experience in instructing and managing teams and with the English language, as well as a solid background in Systems Analysis and Development, specializing in Leadership and Pedagogical Management, and currently pursuing a postgraduate degree in Full Stack Development and Cloud Computing. I possess skills in team and project management, always seeking innovative solutions that drive growth and efficiency, applying my technical and management knowledge to achieve significant results.</p>
+<p align="center">I am a mobile developer focused on best development practices, always aiming for clean, maintainable code and efficient solutions. I do my best to deliver quality and organization, using Git and semantic versioning effectively. I work primarily with React Native and TypeScript, as well as Flutter and Dart, to build scalable and high-performance solutions for Android and iOS. I have a solid background in Front-End development, with an emphasis on creating intuitive and responsive user interfaces.</p>
   
 #
 
