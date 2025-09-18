@@ -1,30 +1,30 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG"> -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&random=false&width=524&lines=Hello,+I'm+Diogo+Sales!" alt="Typing SVG">
+    <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B59B6&left=true&vleft=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG"> -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9B59B6&left=true&vleft=true&random=false&width=524&lines=Hello,+I'm+Diogo+Sales!" alt="Typing SVG">
   </a>
 </div>
 
-<!-- <img align="center" alt="" src="./src/header-gif.gif"> -->
+<!-- <img align="left" alt="" src="./src/header-gif.gif"> -->
 
 #
 
-<!-- <p align="center">Analista de sistemas organizado, detalhista e focado em entregar soluções de alta qualidade. Possuo experiência em
+<!-- <p align="left">Analista de sistemas organizado, detalhista e focado em entregar soluções de alta qualidade. Possuo experiência em
 instruir e gerir equipes e com a língua inglesa, além de sólida formação em Análise e Desenvolvimento de Sistemas,
 especialização em Liderança e Gestão Pedagógica e cursando pós-graduação em Desenvolvimento Full Stack e Cloud
 Computing. Tenho habilidades em gerenciar equipes e projetos, sempre buscando soluções inovadoras que
 impulsionem o crescimento e a eficiência, aplico meus conhecimentos técnicos e de gestão para alcançar resultados
 expressivos.</p> -->
 
-<p align="center">
+<p align="left">
 I am a mobile developer focused on best development practices, always aiming for clean, maintainable code and efficient solutions. I do my best to deliver quality and organization, using Git and semantic versioning effectively. 
 </p>
 
-<p align="center">
+<p align="left">
 My main stack includes <strong>React Native</strong> and <strong>TypeScript</strong>, as well as <strong>Flutter</strong> and <strong>Dart</strong>, for building scalable and high-performance solutions for Android and iOS. I also have a solid background in front-end development, with a strong focus on creating intuitive and responsive user interfaces.
 </p>
 
-<p align="center">
+<p align="left">
 Currently, I work with <strong>React Native</strong> and <strong>Flutter</strong>, from planning to publishing applications in digital stores, and also maintaining future updates. On the backend, I use <strong>Django integrated with REST APIs</strong> and also develop projects with <strong>Firebase</strong>.
 </p>
   
@@ -81,7 +81,7 @@ Currently, I work with <strong>React Native</strong> and <strong>Flutter</strong
 
 #
 
-<div style="text-align: center;" align="center">
+<div style="text-align: left;" align="left">
   <h3>GitHub Stats</h3>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=digsales&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=9B59B6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=9B59B6&theme=jolly" />
@@ -94,7 +94,7 @@ Currently, I work with <strong>React Native</strong> and <strong>Flutter</strong
 
 #
 
-<picture align="center">
+<picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/digsales/digsales/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/digsales/digsales/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/digsales/digsales/output/github-contribution-grid-snake.svg">
