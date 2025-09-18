@@ -16,7 +16,17 @@ Computing. Tenho habilidades em gerenciar equipes e projetos, sempre buscando so
 impulsionem o crescimento e a eficiência, aplico meus conhecimentos técnicos e de gestão para alcançar resultados
 expressivos.</p> -->
 
-<p align="center">I am a mobile developer focused on best development practices, always aiming for clean, maintainable code and efficient solutions. I do my best to deliver quality and organization, using Git and semantic versioning effectively. I work primarily with React Native and TypeScript, as well as Flutter and Dart, to build scalable and high-performance solutions for Android and iOS. I have a solid background in Front-End development, with an emphasis on creating intuitive and responsive user interfaces.</p>
+<p align="center">
+I am a mobile developer focused on best development practices, always aiming for clean, maintainable code and efficient solutions. I do my best to deliver quality and organization, using Git and semantic versioning effectively. 
+</p>
+
+<p align="center">
+My main stack includes <strong>React Native</strong> and <strong>TypeScript</strong>, as well as <strong>Flutter</strong> and <strong>Dart</strong>, for building scalable and high-performance solutions for Android and iOS. I also have a solid background in front-end development, with a strong focus on creating intuitive and responsive user interfaces.
+</p>
+
+<p align="center">
+Currently, I work with <strong>React Native</strong> and <strong>Flutter</strong>, from planning to publishing applications in digital stores, and also maintaining future updates. On the backend, I use <strong>Django integrated with REST APIs</strong> and also develop projects with <strong>Firebase</strong>.
+</p>
   
 #
 
